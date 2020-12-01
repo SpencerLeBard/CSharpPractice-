@@ -1,0 +1,13 @@
+C:\source\codeworks\week10\helloworld\bin\Debug\netcoreapp3.1\helloworld.exe
+C:\source\codeworks\week10\helloworld\bin\Debug\netcoreapp3.1\helloworld.deps.json
+C:\source\codeworks\week10\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.json
+C:\source\codeworks\week10\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.dev.json
+C:\source\codeworks\week10\helloworld\bin\Debug\netcoreapp3.1\helloworld.dll
+C:\source\codeworks\week10\helloworld\bin\Debug\netcoreapp3.1\helloworld.pdb
+C:\source\codeworks\week10\helloworld\obj\Debug\netcoreapp3.1\helloworld.csprojAssemblyReference.cache
+C:\source\codeworks\week10\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfoInputs.cache
+C:\source\codeworks\week10\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfo.cs
+C:\source\codeworks\week10\helloworld\obj\Debug\netcoreapp3.1\helloworld.csproj.CoreCompileInputs.cache
+C:\source\codeworks\week10\helloworld\obj\Debug\netcoreapp3.1\helloworld.dll
+C:\source\codeworks\week10\helloworld\obj\Debug\netcoreapp3.1\helloworld.pdb
+C:\source\codeworks\week10\helloworld\obj\Debug\netcoreapp3.1\helloworld.genruntimeconfig.cache
