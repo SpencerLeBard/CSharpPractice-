@@ -6,11 +6,14 @@ namespace helloworld
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Enter Number");
-      int num1 = Convert.ToInt32(Console.ReadLine());
-      Console.WriteLine("Enter Number");
-      int num2 = Convert.ToInt32(Console.ReadLine());
-      Console.WriteLine(num1 + num2);
+      SayHi("Mike");
+
+      Console.ReadLine();
     }
+    static void SayHi(string name)
+    {
+      Console.WriteLine("hello " + name);
+    }
+
   }
 }
